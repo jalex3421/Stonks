@@ -9,3 +9,6 @@ https://www.w3schools.com/python/python_json.asp
 
 LSTM
 https://www.codespeedy.com/predicting-stock-price-using-lstm-python-ml/
+
+HG
+https://github.com/Finnhub-Stock-API/finnhub-python
