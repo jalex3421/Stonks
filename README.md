@@ -24,3 +24,6 @@ https://www.brokeronline.es/bolsas-mundiales/bolsas-de-estados-unidos/
 --------------------------------- New York Stock Exchange (NYSE)----------------------------------------------
 
 *Down Jones  Mide el desempeño de las 30 mayores sociedades anónimas que cotizan en el mercado bursátil de Estados Unidos.No todos sus componentes tienen relación con la industria pesada, debido al auge de las compañías financieras y de informática.
+
+Dataset a usae
+https://www.kaggle.com/camnugent/sandp500
