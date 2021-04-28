@@ -15,3 +15,4 @@ https://github.com/Finnhub-Stock-API/finnhub-python
 
 API Key: c24hn9qad3icddq4kmi0
 
+https://www.brokeronline.es/bolsas-mercados-espana/
